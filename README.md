@@ -1,4 +1,4 @@
-Úvod do prostorových databází
-=============================
+Šablona školení GISMentors
+==========================
 
-URL: https://training.gismentors.eu/prostorove-databaze
+Použít jako šablonu pro další školení
